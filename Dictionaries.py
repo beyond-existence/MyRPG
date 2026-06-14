@@ -1,0 +1,11 @@
+armors = {
+    "" : ""
+}
+
+characters = {
+    "" : ""
+}
+
+weapons = {
+    "" : ""
+}

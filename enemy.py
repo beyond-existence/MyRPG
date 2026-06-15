@@ -42,7 +42,7 @@ class Giant(Enemy):
     def harm_received(self, enemyDamage):
         self.harm = enemyDamage - dict.armors.get(self.armor)
 
-
+# Archer class
 class Archer(Enemy):
     def damage_dealt(self):
         self.damage = dict.weapons.get(self.weapon)

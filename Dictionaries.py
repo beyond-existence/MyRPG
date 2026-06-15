@@ -4,6 +4,7 @@ armors = {
 "Giant's clothes" : 50,
 "Archer's cap" : 40,
 "Drown's skin" : 70,
+"Siddh's crown" : 70,
 }
 
 weapons = {
@@ -12,4 +13,5 @@ weapons = {
 "Giant's Battleaxe" : 50,
 "Archer's bow" : 50,
 "Drown's trident" : 90,
+"Siddh's dual swords" : 90,
 }
